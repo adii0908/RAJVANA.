@@ -1,5 +1,5 @@
 
-<html lang="en">
+<html>
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width,initial-scale=1" />
@@ -95,7 +95,7 @@
 
 <header>
   <!-- Logo (fixed top-left). Clicking returns to top/home -->
-<img id="logo" src="[https://en.m.wikipedia.org/wiki/File:Sacred_lotus_Nelumbo_nucifera.jpg](https://en.m.wikipedia.org/wiki/File:British_19th_Century,_East_Indian_Lotus_(Nelumbo_nucifera),_late_19th_century,_NGA_52325.jpg)" alt=Rajvana logo" onclick="window.scrollTo({top:0,behavior:'smooth'})">
+<img id="logo" src="https://en.m.wikipedia.org/wiki/File:British_19th_Century,_East_Indian_Lotus_(Nelumbo_nucifera),_late_19th_century,_NGA_52325.jpg" alt=Rajvana logo" onclick="window.scrollTo({top:0,behavior:'smooth'})">
   <nav>
     <a href="#home" onclick="scrollToId('home')">Home</a>
     <a href="#about" onclick="scrollToId('about')">About</a>
