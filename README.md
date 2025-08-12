@@ -87,7 +87,8 @@ footer{ text-align:center; padding:20px; margin-top:18px; background:var(--saffr
 
 <header>
   <!-- Logo (fixed top-left). Clicking returns to top/home -->
-<img id="logo" src="https://en.m.wikipedia.org/wiki/File:British_19th_Century,_East_Indian_Lotus_(Nelumbo_nucifera),_late_19th_century,_NGA_52325.jpg"  alt=Rajvana logo"
+<img id="logo"
+src="https://en.m.wikipedia.org/wiki/File:British_19th_Century,_East_Indian_Lotus_(Nelumbo_nucifera),_late_19th_century,_NGA_52325.jpg"  alt=Rajvana logo 
   onclick="window.scrollTo({top:0,behavior:'smooth'})">
   <nav>
     <a href="#home" onclick="scrollToId('home')">Home</a>
