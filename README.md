@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
 <meta charset="utf-8" />
@@ -95,7 +95,7 @@
 
 <header>
   <!-- Logo (fixed top-left). Clicking returns to top/home -->
-  <img id="logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Lotus_flower_icon.svg/512px-Lotus_flower_icon.svg.png" alt=Rajvana  Logo" onclick="window.scrollTo({top:0,behavior:'smooth'})">
+<img id="logo" src="[https://en.m.wikipedia.org/wiki/File:Sacred_lotus_Nelumbo_nucifera.jpg](https://en.m.wikipedia.org/wiki/File:British_19th_Century,_East_Indian_Lotus_(Nelumbo_nucifera),_late_19th_century,_NGA_52325.jpg)" alt=Rajvana logo" onclick="window.scrollTo({top:0,behavior:'smooth'})">
   <nav>
     <a href="#home" onclick="scrollToId('home')">Home</a>
     <a href="#about" onclick="scrollToId('about')">About</a>
@@ -123,22 +123,22 @@
   <!-- Floating image buttons for quick navigation -->
   <div class="places-menu" aria-hidden="false">
     <a class="place-btn" title="Varanasi" onclick="scrollToId('varanasi')">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Ganga_Aarti_at_Dashashwamedh_Ghat.jpg" alt="Varanasi">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Ganga_Aarti_at_Dashashwamedh_Ghat.jpg" alt="Varanasi">
     </a>
     <a class="place-btn" title="Ayodhya" onclick="scrollToId('ayodhya')">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Ram_Janmabhoomi_Mandir_Ayodhya.jpg" alt="Ayodhya">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Ram_Janmabhoomi_Mandir_Ayodhya.jpg" alt="Ayodhya">
+ </a>
+<a class="place-btn" title="Sarnath" onclick="scrollToId('sarnath')">
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/28/Dhamekh_Stupa.jpg" alt="Sarnath">
     </a>
-    <a class="place-btn" title="Sarnath" onclick="scrollToId('sarnath')">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/2/28/Dhamekh_Stupa.jpg" alt="Sarnath">
-    </a>
-    <a class="place-btn" title="Bodh Gaya" onclick="scrollToId('bodhgaya')">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Mahabodhi_Temple_1.jpg" alt="Bodh Gaya">
-    </a>
-    <a class="place-btn" title="Agra" onclick="scrollToId('agra')">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Taj-Mahal.jpg" alt="Agra">
-    </a>
-    <a class="place-btn" title="Mathura" onclick="scrollToId('mathura')">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Mathura_Temple_%282%29.jpg" alt="Mathura">
+<a class="place-btn" title="Bodh Gaya" onclick="scrollToId('bodhgaya')">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Mahabodhi_Temple_1.jpg" alt="Bodh Gaya">
+</a>
+<a class="place-btn" title="Agra" onclick="scrollToId('agra')">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Taj-Mahal.jpg" alt="Agra">
+ </a>
+<a class="place-btn" title="Mathura" onclick="scrollToId('mathura')">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Mathura_Temple_%282%29.jpg" alt="Mathura">
     </a>
     <a class="place-btn" title="Vrindavan" onclick="scrollToId('vrindavan')">
       <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Govinddev_temple_-_Vrindavan.jpg" alt="Vrindavan">
@@ -157,7 +157,7 @@
   <!-- 1. Varanasi -->
   <section id="varanasi" class="place">
     <div class="place-grid">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Varanasi_City.jpg" alt="Varanasi">
+      <img src="https://en.m.wikipedia.org/wiki/File:Assi_Ghat_Varanasi_morning_Aarti.jpg" alt="Varanasi">
       <div class="place-text">
         <h2>Varanasi</h2>
         <p data-lang="en">
