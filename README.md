@@ -36,10 +36,8 @@
   header .controls{ margin-left:auto; display:flex; gap:10px; align-items:center;}
   select, button{ padding:6px 8px; border-radius:6px; border:1px solid rgba(0,0,0,0.12); background:#fff; cursor:pointer; }
   button:hover{ opacity:.95; }
-
   main{ max-width:1100px; margin:90px auto 60px; padding:0 18px; }
-
-  .hero{
+.hero{
     height:64vh; border-radius:10px; overflow:hidden;
     background-image:url('https://upload.wikimedia.org/wikipedia/commons/0/0f/Varanasi_Ghat.jpg');
     background-size:cover; background-position:center;
@@ -48,8 +46,7 @@
   }
   .hero h1{ margin:0; font-family:Georgia,serif; font-size:2.1rem; text-shadow:0 2px 6px rgba(0,0,0,0.4);}
   .hero p{ margin-top:10px; font-weight:600; }
-
-  /* Floating right-side place quick menu */
+/* Floating right-side place quick menu */
   .places-menu{
     position:fixed; right:12px; top:90px; z-index:1100;
     display:flex; flex-direction:column; gap:10px;
@@ -59,8 +56,7 @@
     background:#fff; cursor:pointer; box-shadow:0 6px 12px rgba(0,0,0,0.14); display:block;
   }
   .place-btn img{ width:100%; height:100%; object-fit:cover; display:block; }
-
-  section.place{
+section.place{
     margin-top:32px; padding:26px; background:#fff; border-radius:10px;
     box-shadow:0 6px 18px rgba(0,0,0,0.06); margin-bottom:28px;
   }
@@ -69,25 +65,21 @@
   .place-grid img{ width:420px; max-width:100%; border-radius:10px; }
   .place-text{ flex:1; min-width:300px; }
   .price-box{ margin-top:14px; background:rgba(255,160,80,0.12); padding:10px; border-radius:8px; font-weight:700; color:#000; display:inline-block; }
-
-  /* small screens */
+/* small screens */
   @media (max-width:900px){
     header{ padding:8px 12px; }
     .place-grid{ flex-direction:column; }
     .places-menu{ right:8px; top:120px; }
   }
-
-  /* dark mode */
+/* dark mode */
   body.dark{
     background:var(--dark-bg); color:var(--dark-text);
   }
   body.dark .hero{ box-shadow: inset 0 0 0 1000px rgba(0,0,0,0.5); }
   body.dark section.place{ background:#242424; box-shadow: none; }
   body.dark .price-box{ background: rgba(204,102,0,0.12); color:var(--dark-text); }
-
-  footer{ text-align:center; padding:20px; margin-top:18px; background:var(--saffron); color:#000; font-weight:700; border-top:4px solid rgba(0,0,0,0.06); }
-
-  /* small niceties */
+footer{ text-align:center; padding:20px; margin-top:18px; background:var(--saffron); color:#000; font-weight:700; border-top:4px solid rgba(0,0,0,0.06); }
+/* small niceties */
   .back-top{ margin-top:14px; padding:8px 12px; border-radius:6px; background:var(--saffron); border:none; cursor:pointer; color:#000; font-weight:700; }
 </style>
 </head>
@@ -95,14 +87,14 @@
 
 <header>
   <!-- Logo (fixed top-left). Clicking returns to top/home -->
-<img id="logo" src="https://en.m.wikipedia.org/wiki/File:British_19th_Century,_East_Indian_Lotus_(Nelumbo_nucifera),_late_19th_century,_NGA_52325.jpg" alt=Rajvana logo" onclick="window.scrollTo({top:0,behavior:'smooth'})">
+<img id="logo"     src="https://en.m.wikipedia.org/wiki/File:British_19th_Century,_East_Indian_Lotus_(Nelumbo_nucifera),_late_19th_century,_NGA_52325.jpg" alt=Rajvana logo" onclick="window.scrollTo({top:0,behavior:'smooth'})">
   <nav>
     <a href="#home" onclick="scrollToId('home')">Home</a>
     <a href="#about" onclick="scrollToId('about')">About</a>
     <a href="#contact" onclick="scrollToId('contact')">Contact</a>
   </nav>
 
-  <div class="controls" style="margin-left:auto; display:flex; gap:8px; align-items:center;">
+<div class="controls" style="margin-left:auto; display:flex; gap:8px; align-items:center;">
     <select id="lang" onchange="setLanguage(this.value)" title="Choose language">
       <option value="en">English</option>
       <option value="hi">हिन्दी</option>
@@ -114,10 +106,10 @@
 
 <main id="main">
   <section class="hero" id="home">
-    <div>
+<div>
       <h1>Rajvana -- Journey Through Heritage & Spirituality</h1>
-      <p>Explore the sacred, historical and cultural heart of Uttar Pradesh with guided tours and curated experiences.</p>
-    </div>
+      <p>Explore the sacred, historical and cultural heart of Uttar   Pradesh with guided tours and curated experiences.</p>
+</div>
   </section>
 
   <!-- Floating image buttons for quick navigation -->
@@ -192,8 +184,8 @@
         </p>
         <div class="price-box">Price (basic): Adults ₹1,200 • Children ₹700 • Foreigners ₹2,500</div>
         <br><button class="back-top" onclick="scrollToId('home')">Back to Top</button>
-      </div>
-    </div>
+  </div>
+ </div>
   </section>
 
   <!-- 3. Sarnath -->
