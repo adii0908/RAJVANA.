@@ -88,7 +88,7 @@ footer{ text-align:center; padding:20px; margin-top:18px; background:var(--saffr
 <header>
   <!-- Logo (fixed top-left). Clicking returns to top/home -->
 <img id="logo"
-src="https://en.m.wikipedia.org/wiki/File:Nelumbo_lutea.jpg"  alt=Rajvana logo
+src="https://picsum.photos/seed/picsum/54/54"  alt=Rajvana logo
   onclick="window.scrollTo({top:0,behavior:'smooth'})">
   <nav>
     <a href="#home" onclick="scrollToId('home')">Home</a>
