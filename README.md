@@ -116,12 +116,13 @@ src="https://picsum.photos/seed/picsum/200/300" height=54px width= 54 alt=Rajvan
 
   <!-- Floating image buttons for quick navigation -->
   <div class="places-menu" aria-hidden="false">
-    <a href="https://ibb.co/r2c5PmK8"><img src="https://i.ibb.co/8gdP30nv/64b3779242efd1689483154-jpg.jpg" alt="Vns" border="0" heigh=54 Width=54></a>
+    <a  class="place-btn" title="Sarnath" onclick="scrollToId('sarnath')" href="https://ibb.co/r2c5PmK8"><img src="https://i.ibb.co/8gdP30nv/64b3779242efd1689483154-jpg.jpg" alt="Vns" border="0" heigh=54 Width=54></a>
    
   <a href="https://imgbb.com/">
   <img src="https://i.ibb.co/gMt6L8dR/images-1.jpg" alt="images-1" border="0" class="place-btn" height=54 width=54 title="Ayodhya" onclick="scrollToId('ayodhya')</a>
 
   <a  class="place-btn" title="Sarnath" onclick="scrollToId('sarnath')" href="https://ibb.co/PGSkbYhL"><img src="https://i.ibb.co/r2W9Lt6j/220686491-Sarnath.jpg" alt="220686491-Sarnath" border="0" height=54 width=54></a>
+
 <a class="place-btn" title="Bodh Gaya" onclick="scrollToId('bodhgaya')">
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Mahabodhi_Temple_1.jpg" alt="Bodh Gaya">
 </a>
@@ -210,7 +211,8 @@ src="https://picsum.photos/seed/picsum/200/300" height=54px width= 54 alt=Rajvan
   <!-- 4. Bodh Gaya -->
   <section id="bodhgaya" class="place">
     <div class="place-grid">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Mahabodhi_Temple_1.jpg" alt="Bodh Gaya">
+<a href="https://imgbb.com/">
+  <img src="https://i.ibb.co/k2Y4qVyM/images-2.jpg" alt="images-2" border="0" height=750 width=600></a>
       <div class="place-text">
         <h2>Bodh Gaya</h2>
         <p data-lang="en">
