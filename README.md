@@ -119,7 +119,7 @@ src="https://picsum.photos/seed/picsum/200/300" height=54px width= 54 alt=Rajvan
     <a  class="place-btn" title="Sarnath" onclick="scrollToId('sarnath')" href="https://ibb.co/r2c5PmK8"><img src="https://i.ibb.co/8gdP30nv/64b3779242efd1689483154-jpg.jpg" alt="Vns" border="0" heigh=54 Width=54></a>
    
   <a href="https://imgbb.com/">
-  <img src="https://i.ibb.co/gMt6L8dR/images-1.jpg" alt="images-1" border="0" class="place-btn" height=54 width=54 title="Ayodhya" onclick="scrollToId('ayodhya')</a>
+  <img src="https://i.ibb.co/gMt6L8dR/images-1.jpg" alt="images-1" border="0" class="place-btn" height=54 width=54 title="Ayodhya" onclick="scrollToId('ayodhya')></a>
 
   <a  class="place-btn" title="Sarnath" onclick="scrollToId('sarnath')" href="https://ibb.co/PGSkbYhL"><img src="https://i.ibb.co/r2W9Lt6j/220686491-Sarnath.jpg" alt="220686491-Sarnath" border="0" height=54 width=54></a>
 
