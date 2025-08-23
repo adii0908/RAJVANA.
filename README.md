@@ -130,9 +130,7 @@ src="https://picsum.photos/seed/picsum/200/300" height=54px width= 54 alt=Rajvan
     <a class="place-btn" title="Vrindavan" onclick="scrollToId('vrindavan')" href="https://imgbb.com/"><img src="https://i.ibb.co/MxCg3xm9/images-4.jpg" alt="images-4" border="0" height=54 width=54></a>
     <a class="place-btn" title="Prayagraj"
     href="https://imgbb.com/"><img src="https://i.ibb.co/bjL3bjKY/images-5.jpg" height=54 width=54 alt="images-5" border="0"></a>
-<a class="place-btn" title="Lucknow" onclick="scrollToId('lucknow')">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/RumiDarwaza_Lucknow_2013.jpg" alt="Lucknow">
-    </a>
+<a class="place-btn" title="Lucknow" onclick="scrollToId('lucknow')"  href="https://imgbb.com/"><img src="https://i.ibb.co/LzFrC3Ck/images-6.jpg" alt="images-6" border="0" width=54 height=54></a>
     <a class="place-btn" title="Chitrakoot" onclick="scrollToId('chitrakoot')">
       <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Chitrakoot_River.jpg" alt="Chitrakoot">
     </a>
@@ -291,7 +289,8 @@ src="https://picsum.photos/seed/picsum/200/300" height=54px width= 54 alt=Rajvan
   <section id="prayagraj" class="place">
     <div class="place-grid">
 <a href="https://imgbb.com/">
-    <img src="https://i.ibb.co/bjL3bjKY/images-5.jpg" height=550 width=600alt="images-5" border="0"></a>
+    <img src="https://i.ibb.co/bjL3bjKY/images-5.jpg" height=550 width=600 alt="images-5" border="0">
+</a>
       <div class="place-text">
         <h2>Prayagraj (Allahabad)</h2>
         <p data-lang="en">
@@ -312,7 +311,8 @@ src="https://picsum.photos/seed/picsum/200/300" height=54px width= 54 alt=Rajvan
   <!-- 9. Lucknow -->
   <section id="lucknow" class="place">
     <div class="place-grid">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/RumiDarwaza_Lucknow_2013.jpg" alt="Lucknow">
+ <a href="https://imgbb.com/">
+        <img src="https://i.ibb.co/LzFrC3Ck/images-6.jpg" alt="images-6" border="0" aidth=550 height=600></a>
       <div class="place-text">
         <h2>Lucknow</h2>
         <p data-lang="en">
