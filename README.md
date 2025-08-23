@@ -376,7 +376,7 @@ footer{ text-align:center; padding:20px; margin-top:18px; background:var(--saffr
 </main>
 
 <footer>
-  © 2025 Gokashi -- Rajnish Mishra • Instagram: @_uk_adii_0908
+  © 2025 Rajvana-- Rajnish Mishra • Cohtact: 7991454730 : Made by Aditya Chaturvedi :Instagram: @_uk_adii_0908...
 </footer>
 
 <script>
@@ -401,22 +401,22 @@ footer{ text-align:center; padding:20px; margin-top:18px; background:var(--saffr
       });
     }
     // save preference (session)
-    sessionStorage.setItem('gokashi-lang', lang);
+    sessionStorage.setItem('Rajvana-lang', lang);
   }
 
   // Theme toggle
   function toggleTheme(){
     document.body.classList.toggle('dark');
-    sessionStorage.setItem('gokashi-theme', document.body.classList.contains('dark') ? 'dark' : 'light');
+    sessionStorage.setItem('Rajvana-theme', document.body.classList.contains('dark') ? 'dark' : 'light');
   }
 
   // Init language & theme from session if available
   (function(){
-    const lang = sessionStorage.getItem('gokashi-lang') || 'en';
+    const lang = sessionStorage.getItem('Rajvana-lang') || 'en';
     document.getElementById('lang').value = lang;
     setLanguage(lang);
 
-    const theme = sessionStorage.getItem('gokashi-theme');
+    const theme = sessionStorage.getItem('Rajvana-theme');
     if(theme === 'dark'){
       document.body.classList.add('dark');
     }
