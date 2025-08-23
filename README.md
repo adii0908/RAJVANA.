@@ -1,4 +1,4 @@
-
+0
 <html>
 <head>
 <meta charset="utf-8" />
@@ -352,13 +352,13 @@ footer{ text-align:center; padding:20px; margin-top:18px; background:var(--saffr
     <h2>About Us</h2>
     <div>
       <p data-lang="en">
-        I am <strong>Rajnish Mishra</strong>. I have 5 years of experience organizing and guiding tours across Uttar Pradesh. My approach combines authentic local knowledge, comfortable logistics, and an emphasis on cultural respect. Whether you seek spiritual pilgrimage, cultural discovery, or a relaxing picnic with beautiful scenery, I craft trips to match your interests. Connect on Instagram: <strong>@_uk_adii_0908</strong> for updates, sample itineraries, and direct booking inquiries.
+        I am <strong>Rajnish Mishra</strong>. I have 5 years of experience organizing and guiding tours across Uttar Pradesh. My approach combines authentic local knowledge, comfortable logistics, and an emphasis on cultural respect. Whether you seek spiritual pilgrimage, cultural discovery, or a relaxing picnic with beautiful scenery, I craft trips to match your interests. Connect on Instagram: <strong>@_uk_adii_0908 , Contact;7991454730</strong> for updates, sample itineraries, and direct booking inquiries.
       </p>
       <p data-lang="hi" style="display:none;">
-        मैं <strong>रजनीश मिश्रा</strong> हूँ। मुझे उत्तर प्रदेश में यात्राओं के आयोजन और मार्गदर्शन का 5 वर्षों का अनुभव है। मेरा तरीका स्थानीय ज्ञान, सुविधाजनक व्यवस्था और सांस्कृतिक सम्मान को जोड़कर यात्रियों के लिए सुविधाजनक और अर्थपूर्ण पर्यटन प्रदान करना है। चाहे आप आध्यात्मिक तीर्थयात्रा चाहते हों, सांस्कृतिक अन्वेषण या खूबसूरत स्थानों पर पिकनिक -- मैं आपकी रुचि के अनुसार यात्रा तैयार करता हूँ। इंस्टाग्राम पर जुड़ें: <strong>@_uk_adii_0908</strong>।
+        मैं <strong>रजनीश मिश्रा</strong> हूँ। मुझे उत्तर प्रदेश में यात्राओं के आयोजन और मार्गदर्शन का 5 वर्षों का अनुभव है। मेरा तरीका स्थानीय ज्ञान, सुविधाजनक व्यवस्था और सांस्कृतिक सम्मान को जोड़कर यात्रियों के लिए सुविधाजनक और अर्थपूर्ण पर्यटन प्रदान करना है। चाहे आप आध्यात्मिक तीर्थयात्रा चाहते हों, सांस्कृतिक अन्वेषण या खूबसूरत स्थानों पर पिकनिक -- मैं आपकी रुचि के अनुसार यात्रा तैयार करता हूँ। इंस्टाग्राम पर जुड़ें: <strong>@_uk_adii_0908,Contact;7991454730 </strong>।
       </p>
       <p data-lang="ta" style="display:none;">
-        நான் <strong>ரஜநீஷ் மிஷ்ரா</strong>. நான் உத்தர் பிரதேசில் பயணம் மற்றும் வழிகாட்டுவதில் 5 ஆண்டுகளுக்கு மேற்பட்ட அனுபவம் பெற்றுள்ளேன். எனது பணிப்புரு உள்ளூரியல் அறிவு மற்றும் பயண வசதிகளை கொண்டு வருகிறது.
+        நான் <strong>ரஜநீஷ் மிஷ்ரா, Contact;7991454730.</strong>. நான் உத்தர் பிரதேசில் பயணம் மற்றும் வழிகாட்டுவதில் 5 ஆண்டுகளுக்கு மேற்பட்ட அனுபவம் பெற்றுள்ளேன். எனது பணிப்புரு உள்ளூரியல் அறிவு மற்றும் பயண வசதிகளை கொண்டு வருகிறது.
       </p>
     </div>
   </section>
@@ -376,7 +376,7 @@ footer{ text-align:center; padding:20px; margin-top:18px; background:var(--saffr
 </main>
 
 <footer>
-  © 2025 Rajvana-- Rajnish Mishra • Cohtact: 7991454730 : Made by Aditya Chaturvedi :Instagram: @_uk_adii_0908...
+  © 2025 Rajvana-- Rajnish Mishra • Contact: 7991454730 : Made by Aditya Chaturvedi :Instagram: @_uk_adii_0908...
 </footer>
 
 <script>
