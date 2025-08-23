@@ -87,9 +87,7 @@ footer{ text-align:center; padding:20px; margin-top:18px; background:var(--saffr
 
 <header>
   <!-- Logo (fixed top-left). Clicking returns to top/home -->
-<img id="logo"
-src="https://picsum.photos/seed/picsum/200/300" height=54px width= 54 alt=Rajvana logo
-  onclick="window.scrollTo({top:0,behavior:'smooth'})">
+<a  href="https://ibb.co/KxptPC7J"><img id="logo" src="https://i.ibb.co/fdz3gmts/file-00000000420461f7afcdddb455eac820.png"  widht=54 height=54 alt="file-00000000420461f7afcdddb455eac820" border="0" onclick="window.scrollTo({top:0,behavior:'smooth'})"></a>
   <nav>
     <a href="#home" onclick="scrollToId('home')">Home</a>
     <a href="#about" onclick="scrollToId('about')">About</a>
@@ -131,9 +129,7 @@ src="https://picsum.photos/seed/picsum/200/300" height=54px width= 54 alt=Rajvan
     <a class="place-btn" title="Prayagraj"
     href="https://imgbb.com/"><img src="https://i.ibb.co/bjL3bjKY/images-5.jpg" height=54 width=54 alt="images-5" border="0"></a>
 <a class="place-btn" title="Lucknow" onclick="scrollToId('lucknow')"  href="https://imgbb.com/"><img src="https://i.ibb.co/LzFrC3Ck/images-6.jpg" alt="images-6" border="0" width=54 height=54></a>
-    <a class="place-btn" title="Chitrakoot" onclick="scrollToId('chitrakoot')">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Chitrakoot_River.jpg" alt="Chitrakoot">
-    </a>
+  <a class="place-btn" title="Chitrakoot" onclick="scrollToId('chitrakoot')" href="https://ibb.co/hJqs6J0m"><img src="https://i.ibb.co/fzcMgzJx/images-7.jpg" width=54 height=54 alt="images-7" border="0"></a>
   </div>
 
   <!-- 1. Varanasi -->
@@ -174,7 +170,6 @@ src="https://picsum.photos/seed/picsum/200/300" height=54px width= 54 alt=Rajvan
         <div class="price-box">Price (basic): Adults ₹1,200 • Children ₹700 • Foreigners ₹2,500</div>
         <br><button class="back-top" onclick="scrollToId('home')">Back to Top</button>
   </div>
- </div>
   </section>
 
   <!-- 3. Sarnath -->
@@ -333,7 +328,8 @@ src="https://picsum.photos/seed/picsum/200/300" height=54px width= 54 alt=Rajvan
   <!-- 10. Chitrakoot -->
   <section id="chitrakoot" class="place">
     <div class="place-grid">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Chitrakoot_River.jpg" alt="Chitrakoot">
+<a href="https://ibb.co/hJqs6J0m">
+   <img src="https://i.ibb.co/fzcMgzJx/images-7.jpg" alt="images-7" border="0" height=500 width=550></a>
       <div class="place-text">
         <h2>Chitrakoot</h2>
         <p data-lang="en">
