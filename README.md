@@ -122,23 +122,15 @@ src="https://picsum.photos/seed/picsum/200/300" height=54px width= 54 alt=Rajvan
   <img src="https://i.ibb.co/gMt6L8dR/images-1.jpg" alt="images-1" border="0" class="place-btn" height=54 width=54 title="Ayodhya"></a>
 
   <a  class="place-btn" title="Sarnath" onclick="scrollToId('sarnath')" href="https://ibb.co/PGSkbYhL"><img src="https://i.ibb.co/r2W9Lt6j/220686491-Sarnath.jpg" alt="220686491-Sarnath" border="0" height=54 width=54></a>
-
-<a class="place-btn" title="Bodh Gaya" onclick="scrollToId('bodhgaya')">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Mahabodhi_Temple_1.jpg" alt="Bodh Gaya">
-</a>
+<a class="place-btn" title="Bodh Gaya" onclick="scrollToId('bodhgaya')" href="https://imgbb.com/"><img src="https://i.ibb.co/k2Y4qVyM/images-2.jpg" height=54 width=54 alt="images-2" border="0"></a>
 <a class="place-btn" title="Agra" onclick="scrollToId('agra')">
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Taj-Mahal.jpg" alt="Agra">
  </a>
-<a class="place-btn" title="Mathura" onclick="scrollToId('mathura')">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Mathura_Temple_%282%29.jpg" alt="Mathura">
-    </a>
-    <a class="place-btn" title="Vrindavan" onclick="scrollToId('vrindavan')">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Govinddev_temple_-_Vrindavan.jpg" alt="Vrindavan">
-    </a>
-    <a class="place-btn" title="Prayagraj" onclick="scrollToId('prayagraj')">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/8/85/Prayagraj_Ganga.jpg" alt="Prayagraj">
-    </a>
-    <a class="place-btn" title="Lucknow" onclick="scrollToId('lucknow')">
+ <a class="place-btn" title="Mathura" onclick="scrollToId('mathura')" href="https://imgbb.com/"><img src="https://i.ibb.co/0Sp8KYb/images-3.jpg" height=54 wifth=54 alt="images-3" border="0"></a>
+    <a class="place-btn" title="Vrindavan" onclick="scrollToId('vrindavan')" href="https://imgbb.com/"><img src="https://i.ibb.co/MxCg3xm9/images-4.jpg" alt="images-4" border="0" height=54 width=54></a>
+    <a class="place-btn" title="Prayagraj"
+    href="https://imgbb.com/"><img src="https://i.ibb.co/bjL3bjKY/images-5.jpg" height=54 width=54 alt="images-5" border="0"></a>
+<a class="place-btn" title="Lucknow" onclick="scrollToId('lucknow')">
       <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/RumiDarwaza_Lucknow_2013.jpg" alt="Lucknow">
     </a>
     <a class="place-btn" title="Chitrakoot" onclick="scrollToId('chitrakoot')">
@@ -254,7 +246,8 @@ src="https://picsum.photos/seed/picsum/200/300" height=54px width= 54 alt=Rajvan
   <!-- 6. Mathura -->
   <section id="mathura" class="place">
     <div class="place-grid">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Mathura_Temple_%282%29.jpg" alt="Mathura">
+<a href="https://imgbb.com/">
+    <img src="https://i.ibb.co/0Sp8KYb/images-3.jpg" alt="images-3" border="0" height=550 width=600></a>
       <div class="place-text">
         <h2>Mathura</h2>
         <p data-lang="en">
@@ -275,7 +268,8 @@ src="https://picsum.photos/seed/picsum/200/300" height=54px width= 54 alt=Rajvan
   <!-- 7. Vrindavan -->
   <section id="vrindavan" class="place">
     <div class="place-grid">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Govinddev_temple_-_Vrindavan.jpg" alt="Vrindavan">
+<a href="https://imgbb.com/">
+   <img src="https://i.ibb.co/MxCg3xm9/images-4.jpg" alt="images-4" border="0" height=500 wifth=550></a>
       <div class="place-text">
         <h2>Vrindavan</h2>
         <p data-lang="en">
@@ -296,7 +290,8 @@ src="https://picsum.photos/seed/picsum/200/300" height=54px width= 54 alt=Rajvan
   <!-- 8. Prayagraj (Allahabad) -->
   <section id="prayagraj" class="place">
     <div class="place-grid">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/8/85/Prayagraj_Ganga.jpg" alt="Prayagraj">
+<a href="https://imgbb.com/">
+    <img src="https://i.ibb.co/bjL3bjKY/images-5.jpg" height=550 width=600alt="images-5" border="0"></a>
       <div class="place-text">
         <h2>Prayagraj (Allahabad)</h2>
         <p data-lang="en">
