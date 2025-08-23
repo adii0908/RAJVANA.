@@ -117,12 +117,11 @@ src="https://picsum.photos/seed/picsum/200/300" height=54px width= 54 alt=Rajvan
   <!-- Floating image buttons for quick navigation -->
   <div class="places-menu" aria-hidden="false">
     <a href="https://ibb.co/r2c5PmK8"><img src="https://i.ibb.co/8gdP30nv/64b3779242efd1689483154-jpg.jpg" alt="Vns" border="0" heigh=54 Width=54></a>
-    <a class="place-btn" title="Ayodhya" onclick="scrollToId('ayodhya')">
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Ram_Janmabhoomi_Mandir_Ayodhya.jpg" alt="Ayodhya">
- </a>
-<a class="place-btn" title="Sarnath" onclick="scrollToId('sarnath')">
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/28/Dhamekh_Stupa.jpg" alt="Sarnath">
-    </a>
+   
+  <a href="https://imgbb.com/">
+  <img src="https://i.ibb.co/gMt6L8dR/images-1.jpg" alt="images-1" border="0" class="place-btn" height=54 width=54 title="Ayodhya" onclick="scrollToId('ayodhya')</a>
+
+  <a  class="place-btn" title="Sarnath" onclick="scrollToId('sarnath')" href="https://ibb.co/PGSkbYhL"><img src="https://i.ibb.co/r2W9Lt6j/220686491-Sarnath.jpg" alt="220686491-Sarnath" border="0" height=54 width=54></a>
 <a class="place-btn" title="Bodh Gaya" onclick="scrollToId('bodhgaya')">
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Mahabodhi_Temple_1.jpg" alt="Bodh Gaya">
 </a>
@@ -169,9 +168,8 @@ src="https://picsum.photos/seed/picsum/200/300" height=54px width= 54 alt=Rajvan
 
   <!-- 2. Ayodhya -->
   <section id="ayodhya" class="place">
-    <div class="place-grid">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Ayodhya_river.jpg" alt="Ayodhya">
-      <div class="place-text">
+    <div class="place-grid" class="place-text">
+      <a href="https://imgbb.com/"><img src="https://i.ibb.co/gMt6L8dR/images-1.jpg" alt="images-1" border="0" width=452 height=560></a>
         <h2>Ayodhya</h2>
         <p data-lang="en">
           Ayodhya is the ancient city associated with the epic Ramayana and believed to be the birthplace of Lord Rama. The city's spiritual aura draws pilgrims who visit temples, ghats and sacred sites like Ram Janmabhoomi, Hanuman Garhi and Kanak Bhawan. Recent restoration and development have improved pilgrim facilities while preserving religious traditions and festivals that enliven the city year-round. Walking through Ayodhya allows visitors to connect with mythic stories, temple architecture, and the devotional rhythms of daily life. A focused pilgrimage or a cultural exploration both reveal deep layers of heritage here.
@@ -191,7 +189,7 @@ src="https://picsum.photos/seed/picsum/200/300" height=54px width= 54 alt=Rajvan
   <!-- 3. Sarnath -->
   <section id="sarnath" class="place">
     <div class="place-grid">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/2/28/Dhamekh_Stupa.jpg" alt="Sarnath">
+  <a href="https://ibb.co/PGSkbYhL"><img src="https://i.ibb.co/r2W9Lt6j/220686491-Sarnath.jpg" alt="220686491-Sarnath" border="0"></a>
       <div class="place-text">
         <h2>Sarnath</h2>
         <p data-lang="en">
