@@ -116,9 +116,7 @@ src="https://picsum.photos/seed/picsum/200/300" height=54px width= 54 alt=Rajvan
 
   <!-- Floating image buttons for quick navigation -->
   <div class="places-menu" aria-hidden="false">
-    <a class="place-btn" title="Varanasi" onclick="scrollToId('varanasi')">
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Ganga_Aarti_at_Dashashwamedh_Ghat.jpg" alt="Varanasi">
-    </a>
+    <a href="https://ibb.co/r2c5PmK8"><img src="https://i.ibb.co/8gdP30nv/64b3779242efd1689483154-jpg.jpg" alt="Vns" border="0" heigh=54 Width=54></a>
     <a class="place-btn" title="Ayodhya" onclick="scrollToId('ayodhya')">
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Ram_Janmabhoomi_Mandir_Ayodhya.jpg" alt="Ayodhya">
  </a>
@@ -151,7 +149,7 @@ src="https://picsum.photos/seed/picsum/200/300" height=54px width= 54 alt=Rajvan
   <!-- 1. Varanasi -->
   <section id="varanasi" class="place">
     <div class="place-grid">
-      <img src="https://en.m.wikipedia.org/wiki/File:Assi_Ghat_Varanasi_morning_Aarti.jpg" alt="Varanasi">
+      <a href="https://ibb.co/r2c5PmK8"><img src="https://i.ibb.co/8gdP30nv/64b3779242efd1689483154-jpg.jpg" alt="64b3779242efd1689483154-jpg" border="0"></a>
       <div class="place-text">
         <h2>Varanasi</h2>
         <p data-lang="en">
