@@ -125,7 +125,8 @@ footer{ text-align:center; padding:20px; margin-top:18px; background:var(--saffr
  </a>
  <a class="place-btn" title="Mathura" onclick="scrollToId('mathura')"><img src="https://i.ibb.co/0Sp8KYb/images-3.jpg" height=54 wifth=54 alt="images-3" border="0"></a>
     <a class="place-btn" title="Vrindavan" onclick="scrollToId('vrindavan')"><img src="https://i.ibb.co/MxCg3xm9/images-4.jpg" alt="images-4" border="0" height=54 width=54></a>
-    <a class="place-btn" title="Prayagraj">
+    <a class="place-btn" title="Prayagraj"
+      onclick="scrollToId('prayagraj')">
     <img src="https://i.ibb.co/bjL3bjKY/images-5.jpg" height=54 width=54 alt="images-5" border="0"></a>
 <a class="place-btn" title="Lucknow" onclick="scrollToId('lucknow')" ><img src="https://i.ibb.co/LzFrC3Ck/images-6.jpg" alt="images-6" border="0" width=54 height=54></a>
   <a class="place-btn" title="Chitrakoot" onclick="scrollToId('chitrakoot')"><img src="https://i.ibb.co/fzcMgzJx/images-7.jpg" width=54 height=54 alt="images-7" border="0"></a>
@@ -134,7 +135,7 @@ footer{ text-align:center; padding:20px; margin-top:18px; background:var(--saffr
   <!-- 1. Varanasi -->
   <section id="varanasi" class="place">
     <div class="place-grid">
-      <a href="https://ibb.co/r2c5PmK8"><img src="https://i.ibb.co/8gdP30nv/64b3779242efd1689483154-jpg.jpg" alt="64b3779242efd1689483154-jpg" border="0"></a>
+      <img src="https://i.ibb.co/8gdP30nv/64b3779242efd1689483154-jpg.jpg" alt="64b3779242efd1689483154-jpg" border="0"></a>
       <div class="place-text">
         <h2>Varanasi</h2>
         <p data-lang="en">
@@ -155,7 +156,7 @@ footer{ text-align:center; padding:20px; margin-top:18px; background:var(--saffr
   <!-- 2. Ayodhya -->
   <section id="ayodhya" class="place">
     <div class="place-grid" class="place-text">
-      <a href="https://imgbb.com/"><img src="https://i.ibb.co/gMt6L8dR/images-1.jpg" alt="images-1" border="0" width=452 height=560></a>
+     <img src="https://i.ibb.co/gMt6L8dR/images-1.jpg" alt="images-1" border="0" width=452 height=560></a>
         <h2>Ayodhya</h2>
         <p data-lang="en">
           Ayodhya is the ancient city associated with the epic Ramayana and believed to be the birthplace of Lord Rama. The city's spiritual aura draws pilgrims who visit temples, ghats and sacred sites like Ram Janmabhoomi, Hanuman Garhi and Kanak Bhawan. Recent restoration and development have improved pilgrim facilities while preserving religious traditions and festivals that enliven the city year-round. Walking through Ayodhya allows visitors to connect with mythic stories, temple architecture, and the devotional rhythms of daily life. A focused pilgrimage or a cultural exploration both reveal deep layers of heritage here.
@@ -174,7 +175,7 @@ footer{ text-align:center; padding:20px; margin-top:18px; background:var(--saffr
   <!-- 3. Sarnath -->
   <section id="sarnath" class="place">
     <div class="place-grid">
-  <a href="https://ibb.co/PGSkbYhL"><img src="https://i.ibb.co/r2W9Lt6j/220686491-Sarnath.jpg" alt="220686491-Sarnath" border="0"></a>
+  <img src="https://i.ibb.co/r2W9Lt6j/220686491-Sarnath.jpg" alt="220686491-Sarnath" border="0"></a>
       <div class="place-text">
         <h2>Sarnath</h2>
         <p data-lang="en">
@@ -195,7 +196,6 @@ footer{ text-align:center; padding:20px; margin-top:18px; background:var(--saffr
   <!-- 4. Bodh Gaya -->
   <section id="bodhgaya" class="place">
     <div class="place-grid">
-<a href="https://imgbb.com/">
   <img src="https://i.ibb.co/k2Y4qVyM/images-2.jpg" alt="images-2" border="0" height=750 width=600></a>
       <div class="place-text">
         <h2>Bodh Gaya</h2>
@@ -238,7 +238,6 @@ footer{ text-align:center; padding:20px; margin-top:18px; background:var(--saffr
   <!-- 6. Mathura -->
   <section id="mathura" class="place">
     <div class="place-grid">
-<a href="https://imgbb.com/">
     <img src="https://i.ibb.co/0Sp8KYb/images-3.jpg" alt="images-3" border="0" height=550 width=600></a>
       <div class="place-text">
         <h2>Mathura</h2>
@@ -260,7 +259,6 @@ footer{ text-align:center; padding:20px; margin-top:18px; background:var(--saffr
   <!-- 7. Vrindavan -->
   <section id="vrindavan" class="place">
     <div class="place-grid">
-<a href="https://imgbb.com/">
    <img src="https://i.ibb.co/MxCg3xm9/images-4.jpg" alt="images-4" border="0" height=500 wifth=550></a>
       <div class="place-text">
         <h2>Vrindavan</h2>
@@ -282,7 +280,6 @@ footer{ text-align:center; padding:20px; margin-top:18px; background:var(--saffr
   <!-- 8. Prayagraj (Allahabad) -->
   <section id="prayagraj" class="place">
     <div class="place-grid">
-<a href="https://imgbb.com/">
     <img src="https://i.ibb.co/bjL3bjKY/images-5.jpg" height=550 width=600 alt="images-5" border="0">
 </a>
       <div class="place-text">
@@ -305,7 +302,6 @@ footer{ text-align:center; padding:20px; margin-top:18px; background:var(--saffr
   <!-- 9. Lucknow -->
   <section id="lucknow" class="place">
     <div class="place-grid">
- <a href="https://imgbb.com/">
         <img src="https://i.ibb.co/LzFrC3Ck/images-6.jpg" alt="images-6" border="0" aidth=550 height=600></a>
       <div class="place-text">
         <h2>Lucknow</h2>
@@ -327,7 +323,6 @@ footer{ text-align:center; padding:20px; margin-top:18px; background:var(--saffr
   <!-- 10. Chitrakoot -->
   <section id="chitrakoot" class="place">
     <div class="place-grid">
-<a href="https://ibb.co/hJqs6J0m">
    <img src="https://i.ibb.co/fzcMgzJx/images-7.jpg" alt="images-7" border="0" height=500 width=550></a>
       <div class="place-text">
         <h2>Chitrakoot</h2>
