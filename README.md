@@ -1,4 +1,3 @@
-0
 <html>
 <head>
 <meta charset="utf-8" />
@@ -114,22 +113,22 @@ footer{ text-align:center; padding:20px; margin-top:18px; background:var(--saffr
 
   <!-- Floating image buttons for quick navigation -->
   <div class="places-menu" aria-hidden="false">
-    <a  class="place-btn" title="Sarnath" onclick="scrollToId('sarnath')" href="https://ibb.co/r2c5PmK8"><img src="https://i.ibb.co/8gdP30nv/64b3779242efd1689483154-jpg.jpg" alt="Vns" border="0" heigh=54 Width=54></a>
+    <a  class="place-btn" title="Sarnath" onclick="scrollToId('sarnath')"><img src="https://i.ibb.co/8gdP30nv/64b3779242efd1689483154-jpg.jpg" alt="Vns" border="0" heigh=54 Width=54></a>
    
-  <a onclick="scrollToId('ayodhya')" href="https://imgbb.com/">
+  <a onclick="scrollToId('ayodhya')">
   <img src="https://i.ibb.co/gMt6L8dR/images-1.jpg" alt="images-1" border="0" class="place-btn" height=54 width=54 title="Ayodhya"></a>
 
-  <a  class="place-btn" title="Sarnath" onclick="scrollToId('sarnath')" href="https://ibb.co/PGSkbYhL"><img src="https://i.ibb.co/r2W9Lt6j/220686491-Sarnath.jpg" alt="220686491-Sarnath" border="0" height=54 width=54></a>
-<a class="place-btn" title="Bodh Gaya" onclick="scrollToId('bodhgaya')" href="https://imgbb.com/"><img src="https://i.ibb.co/k2Y4qVyM/images-2.jpg" height=54 width=54 alt="images-2" border="0"></a>
+  <a  class="place-btn" title="Sarnath" onclick="scrollToId('sarnath')"><img src="https://i.ibb.co/r2W9Lt6j/220686491-Sarnath.jpg" alt="220686491-Sarnath" border="0" height=54 width=54></a>
+<a class="place-btn" title="Bodh Gaya" onclick="scrollToId('bodhgaya')"><img src="https://i.ibb.co/k2Y4qVyM/images-2.jpg" height=54 width=54 alt="images-2" border="0"></a>
 <a class="place-btn" title="Agra" onclick="scrollToId('agra')">
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Taj-Mahal.jpg" alt="Agra">
  </a>
- <a class="place-btn" title="Mathura" onclick="scrollToId('mathura')" href="https://imgbb.com/"><img src="https://i.ibb.co/0Sp8KYb/images-3.jpg" height=54 wifth=54 alt="images-3" border="0"></a>
-    <a class="place-btn" title="Vrindavan" onclick="scrollToId('vrindavan')" href="https://imgbb.com/"><img src="https://i.ibb.co/MxCg3xm9/images-4.jpg" alt="images-4" border="0" height=54 width=54></a>
-    <a class="place-btn" title="Prayagraj"
-    href="https://imgbb.com/"><img src="https://i.ibb.co/bjL3bjKY/images-5.jpg" height=54 width=54 alt="images-5" border="0"></a>
-<a class="place-btn" title="Lucknow" onclick="scrollToId('lucknow')"  href="https://imgbb.com/"><img src="https://i.ibb.co/LzFrC3Ck/images-6.jpg" alt="images-6" border="0" width=54 height=54></a>
-  <a class="place-btn" title="Chitrakoot" onclick="scrollToId('chitrakoot')" href="https://ibb.co/hJqs6J0m"><img src="https://i.ibb.co/fzcMgzJx/images-7.jpg" width=54 height=54 alt="images-7" border="0"></a>
+ <a class="place-btn" title="Mathura" onclick="scrollToId('mathura')"><img src="https://i.ibb.co/0Sp8KYb/images-3.jpg" height=54 wifth=54 alt="images-3" border="0"></a>
+    <a class="place-btn" title="Vrindavan" onclick="scrollToId('vrindavan')"><img src="https://i.ibb.co/MxCg3xm9/images-4.jpg" alt="images-4" border="0" height=54 width=54></a>
+    <a class="place-btn" title="Prayagraj">
+    <img src="https://i.ibb.co/bjL3bjKY/images-5.jpg" height=54 width=54 alt="images-5" border="0"></a>
+<a class="place-btn" title="Lucknow" onclick="scrollToId('lucknow')" ><img src="https://i.ibb.co/LzFrC3Ck/images-6.jpg" alt="images-6" border="0" width=54 height=54></a>
+  <a class="place-btn" title="Chitrakoot" onclick="scrollToId('chitrakoot')"><img src="https://i.ibb.co/fzcMgzJx/images-7.jpg" width=54 height=54 alt="images-7" border="0"></a>
   </div>
 
   <!-- 1. Varanasi -->
